@@ -117,6 +117,9 @@ Semester end date and lab end date are both stored in ```VITSkipCalc.py```
 - [ ] Find better solution for separation of embedded courses _(e.g. BCSE203E, where both theory and lab components share the same source code)_
 - [ ] Reduce the number of inputs needed in the database editor for simple tasks _(e.g. updating a day in a database unnecessarily outputs a selection menu after every change)_
 
+#### Additional:
+- [ ] Convert into a GO API
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
