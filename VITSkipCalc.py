@@ -46,11 +46,11 @@ def main():
         print(f"{x} : {attn} out of {tot} class[es] attended".center(50,"-"))
 
     if(cat1status):
-        calcSkips(schd, daycount_cat1, "CAT 1")
+        calcSkips(schd, daycount_cat1, "CAT 1", unqCourse)
     if(cat2status):
-        calcSkips(schd, daycount_cat2, "CAT 2")
+        calcSkips(schd, daycount_cat2, "CAT 2", unqCourse)
     if(fatStatus):
-        calcSkips(schd, daycount_fat, "FAT")
+        calcSkips(schd, daycount_fat, "FAT", unqCourse)
 
     #list of courses
     # unqCourse = []
@@ -60,12 +60,11 @@ def main():
     #         if(x not in unqCourse):
     #             unqCourse.append(x)
 
-def calcSkips(schd, daycount, examName):
+def calcSkips(schd, daycount, examName, unqCourse):
     total = {}
     attnd = {}
     missed = {}
 
-    unqCourse = getAttendance()
     for x in unqCourse:
         # tot = int(input("Number of classes held so far: "))
         # attn = int(input("Number of classes attended so far: "))
