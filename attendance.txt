@@ -1,0 +1,11 @@
+1	General (Semester)	BCSE203E - Web Programming - Embedded Theory	VL2023240500871 - TAA2 - PRP308	EZHIL ARASI V - SCOPE	6	6	100%	-	
+2	General (Semester)	BCSE203E - Web Programming - Embedded Lab	VL2023240504855 - L13+L14+L19+L20 - SJT120	EZHIL ARASI V - SCOPE	24	28	86%	-	
+3	General (Semester)	BCSE204L - Design and Analysis of Algorithms - Theory Only	VL2023240500879 - A2+TA2 - PRP210	JOSHVA DEVADAS T - SCOPE	16	19	85%	-	
+4	General (Semester)	BCSE204P - Design and Analysis of Algorithms Lab - Lab Only	VL2023240504898 - L5+L6 - SJT121	JOSHVA DEVADAS T - SCOPE	10	12	84%	-	
+5	General (Semester)	BCSE205L - Computer Architecture and Organization - Theory Only	VL2023240500900 - D2+TD2 - PRP322	PRABIN S M - SCOPE	16	19	85%	-	
+6	General (Semester)	BCSE304L - Theory of Computation - Theory Only	VL2023240501036 - B2+TB2 - PRP313	ANAND BIHARI - SCOPE	15	17	89%	-	
+7	General (Semester)	BECE204L - Microprocessors and Microcontrollers - Theory Only	VL2023240505495 - C2+TC2 - PRP322	SANDEEP MOPARTHI - SENSE	16	18	89%	-	
+8	General (Semester)	BECE204P - Microprocessors and Microcontrollers Lab - Lab Only	VL2023240505642 - L25+L26 - SJT515	SANDEEP MOPARTHI - SENSE	10	12	84%	-	
+9	General (Semester)	BMAT202L - Probability and Statistics - Theory Only	VL2023240501696 - G2+TG2 - PRP309	PRAVEEN T - SAS	16	18	89%	-	
+10	General (Semester)	BMAT202P - Probability and Statistics Lab - Lab Only	VL2023240502368 - L23+L24 - PRP119	PRAVEEN T - SAS	10	12	84%	-	
+11	General (Semester)	BSTS102P - Quantitative Skills Practice II - Soft Skill	VL2023240500061 - E2+TE2 - PRP304	ETHNUS (APT) - SSL	14	16	88%	-	
