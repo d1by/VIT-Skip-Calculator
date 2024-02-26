@@ -27,8 +27,6 @@
     Calculates the number of classes you can skip before CAT1, CAT2, and FAT exams without being debarred.
     <br />
     <br />
-    <a href="https://github.com/d1by/VIT-Skip-Calculator">View Demo</a>
-    ·
     <a href="https://github.com/d1by/VIT-Skip-Calculator/issues">Report Bug</a>
     ·
     <a href="https://github.com/d1by/VIT-Skip-Calculator/issues">Request Feature</a>
